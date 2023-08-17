@@ -1,3 +1,3 @@
-function mostrarAlerta() {
+//function mostrarAlerta() {
     alert("¡Hola!");
-}
+//}
